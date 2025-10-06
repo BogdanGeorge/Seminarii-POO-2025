@@ -3,7 +3,7 @@
 ## Utile:
 
 - https://acs.ase.ro/cpp
-- Email contact: bogdan0692@yahoo.com
+- Email contact: bogdan.lapusan@csie.ase.ro
 
 ## Alte materiale:
 
