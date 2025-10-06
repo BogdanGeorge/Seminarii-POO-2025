@@ -1,0 +1,104 @@
+# Ignore Visual Studio temporary files, build results, and
+# include .vs, which is the hidden folder in Visual Studio
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (Mono Auto Generated)
+mono_crash.*
+
+# User-specific folders
+.vscode/
+.vs/
+
+# Backup & report files
+*.dmp
+*.mdmp
+*.log
+*.tlog
+*.lastbuildstate
+*.ide
+
+# Project-specific files
+*.pdb
+*.opendb
+*.obj
+*.idb
+*.ipch
+*.pch
+*.rsp
+*.sbr
+*.ilk
+*.aps
+*.ncb
+*.res
+*.exrc
+*.dat
+
+# Build results
+[Bb]in/
+[Dd]ebug*/
+[Rr]elease*/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+[Bb]uild/
+[Bb]uild[Ll]og.*
+*.VC.db
+*.VC.VC.opendb
+*.vshost.exe*
+*.tlog/
+*.obj/
+*.log/
+
+# Visual Studio Code workspace settings
+.vscode/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folders for intermediate, build, or working files
+ipch/
+obj/
+out/
+Debug/
+Release/
+x64/
+x86/
+
+# C++ auto-generated files
+*.dll
+*.exe
+*.lib
+*.o
+*.out
+*.iobj
+*.ipdb
+*.exp
+*.idb
+
+# Other Visual Studio files
+*.log
+*.vspscc
+*.vssscc
+*.cache
+*.log
+*.dbmdl
+*.mssccprj
+
+# JetBrains Rider related files
+.idea/
+
+# Rider User preferences
+.idea/*.iws
+.idea/.idea/
+
+# Rider projects and build files
+.idea/compiler.xml
+.idea/gradle
