@@ -95,7 +95,7 @@ public:
 	{
 		this->_nume = s._nume;
 		this->_varsta = s._varsta;
-		this->note = s.note; // Nu este ok, intrucat ne creaza o copie superficiala
+		this->note = s.note; // Nu este corect, intrucat ne creeaza o copie superficiala
 	}
 };
 
