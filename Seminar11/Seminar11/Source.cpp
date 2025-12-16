@@ -286,7 +286,7 @@ ifstream& operator>>(ifstream& in, contBancar& cont)
 
 	if (tipContTemp == 200)
 	{
-		cont.tipCont == TipContBancar::credit;
+		cont.tipCont = TipContBancar::credit;
 	}
 	else {
 		cont.tipCont = TipContBancar::debit;
